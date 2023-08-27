@@ -88,3 +88,19 @@
 | artsiomrusau.com/ Курс "Функциональное тестирование ПО"         | 	06/2023 - 09/2023|
 
 ---
+ Testing Artefacts:
+ </p>
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/ElksneE/Web-testing"> Web-testing </a>  </li>
+<li>  <a href="https://github.com/ElksneE/Mobile-testing"> Mobile Testing </a>   </li>
+<li> <a href="https://github.com/ElksneE/Test-cases_Pairwise"> Test-cases_Pairwise </a>   </li>
+<li>  <a href="https://github.com/ElksneE/Checklists"> Checklists </a>  </li>
+<li>  <a href="https://github.com/ElksneE/API-testing"> API-testing
+</a>   </li>
+<li> <a href="https://github.com/ElksneE/MySQL"> MySQ L</a>  </li>
+<li> <a href="https://github.com/ElksneE/Bash"> Bash </a>  </li>
+<li> <a href="https://github.com/ElksneE/MongoDB"> MongoDB </a> </li>
+</ul>
+</p>
