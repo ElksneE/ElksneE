@@ -1,6 +1,15 @@
 # 🙋🏻‍♀️ Привет, меня зовут Елена!
+<style type="text/css">
+  body {
+    color: purple;
+    background-color: hsl(195deg 48.17% 92.64%)
+} }
 
+a {
+    color: red;
+}
 
+  </style>
 
 ###  Обо мне:
 
@@ -88,9 +97,9 @@
 | artsiomrusau.com/ Курс "Функциональное тестирование ПО"         | 	06/2023 - 09/2023|
 
 ---
- Testing Artefacts:
  </p>
-<h2>Test Artifacts </h2>
+<h2 color:#fa8e47>Test Artifacts </h2>
+
 <p> 
  <ul>
 <li>  <a href="https://github.com/ElksneE/Web-testing"> Web-testing </a>  </li>
