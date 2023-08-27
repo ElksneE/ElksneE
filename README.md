@@ -1,15 +1,4 @@
 # 🙋🏻‍♀️ Привет, меня зовут Елена!
-<style type="text/css">
-  body {
-    color: purple;
-    background-color: hsl(195deg 48.17% 92.64%)
-} }
-
-a {
-    color: red;
-}
-
-  </style>
 
 ###  Обо мне:
 
