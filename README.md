@@ -23,6 +23,10 @@
  📞  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/%40elksne-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/elksne) [![mail Badge](https://img.shields.io/badge/%40Mailru-005FF9)](mailto:el_el_@mail.ru)
 
 ---
+
+---
+### [My CV](https://docs.google.com/document/d/1FQUK_FDLcCP6yqpAiDvea7NSr9qNQDThSoFsp-BASZU/edit)
+---
 ### 📁 Тестовая документация:
 
 <div>
