@@ -25,7 +25,7 @@
 ---
 
 ---
-### [My CV](https://docs.google.com/document/d/1FQUK_FDLcCP6yqpAiDvea7NSr9qNQDThSoFsp-BASZU/edit)
+### [My CV](https://docs.google.com/document/d/1FQUK_FDLcCP6yqpAiDvea7NSr9qNQDThSoFsp-BASZU/edit?usp=sharing)
 ---
 ### 📁 Тестовая документация:
 
